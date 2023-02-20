@@ -1,0 +1,32 @@
+.center {
+  text-align: center;
+}
+/* .inputsize{
+  width: 30rem;
+} */
+.navbrand{
+    color: wheat;
+    font-weight: bold;
+}
+button.navbar-toggler{
+    background-color: white;
+}
+
+
+.navbar {
+  background-color: rgb(53, 31, 105);
+}
+
+a.nav-link {
+  font-size: 20px;
+  color: white;
+  font-weight: bolder;
+}
+a.nav-link:hover{
+    text-decoration: none;
+    color: red;
+}
+a.nav-link:active{
+    text-decoration: underline;
+    color: blue;
+}
